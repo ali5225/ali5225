@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamza
 - 👀 I’m interested in HaCKerZ
 - 🌱 I’m currently learning that tool which need me😁
-- 💞️ I’m looking to collaborate on ISH shell
+- 💞️ I’m looking to collaborate on ISH shell,termux and linux
 - 📫 How to reach me > its a dream 😁😂
 
 <!---
